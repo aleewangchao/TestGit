@@ -1,11 +1,13 @@
 package com.atguigu.git;
 
+import java.io.Serializable;
+
 /**
  * @description:
  * @author: ALee
  * @create: 2020-05-07 09:32:53
  **/
-public class test {
+public class test implements Serializable{
 
 
 }
